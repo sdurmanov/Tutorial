@@ -1,4 +1,4 @@
-baseURL = "http://213.59.169.2/"
+baseURL = "https://tutor01.onrender.com/"
 languageCode = "ru-ru"
 title = "Tutorial"
 theme = "minos2"
