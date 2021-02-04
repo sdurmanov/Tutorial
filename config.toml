@@ -1,0 +1,17 @@
+baseURL = "http://213.59.169.2/"
+languageCode = "ru-ru"
+title = "Tutorial"
+theme = "minos2"
+paginate = 10
+
+[params]
+	smartToc = true
+	oPostNavigation = true
+	customCss = ["css/foo.css"]
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = -110
